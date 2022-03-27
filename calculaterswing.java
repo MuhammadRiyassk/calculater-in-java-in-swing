@@ -169,9 +169,7 @@ public class Calculator implements ActionListener{
 		new Calculator();
 	}
 	@Override
-	public void actionPerformed(ActionEvent e) {
-		//jf.getContentPane().setBackground(Color.black);//
-		
+	public void actionPerformed(ActionEvent e)
 		
 		if(e.getSource()== sevenButton) {
 			
